@@ -1,7 +1,7 @@
 /* http://forum.arduinoturkiye.com/index.php?p=/discussion/6395/artimsal-enkoder-ile-uzunluk-oelcuemue/p1
    https://www.youtube.com/watch?time_continue=2&v=bXT9G5DQub4
    Bünyamin GÖZÜPEK hocamız tarafından geliştirilmiş olup,
-   TR.ALP.18 www.ronaer.com tarafından  uyarlanmıştır...
+   Dr.TRonik YouTube / www.ronaer.com tarafından  uyarlanmıştır...
 */
 
 #include <LiquidCrystal_I2C.h> //https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library  I2C+LCD ekran için
